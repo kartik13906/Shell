@@ -48,29 +48,6 @@ cd Shell
 chmod +x *.sh
 ```
 
-## Usage
-
-```bash
-./script_name.sh [options] [arguments]
-```
-
-| Option | Description |
-|--------|-------------|
-| `-h`   | Show help message |
-| `-v`   | Verbose output |
-
-<!-- Adjust to match your scripts' actual options -->
-
-## Examples
-
-```bash
-# Example 1: describe what this does
-./script1.sh
-
-# Example 2: describe what this does
-./script2.sh --option value
-```
-
 ## Contributing
 
 Contributions are welcome!
@@ -84,6 +61,11 @@ Contributions are welcome!
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## References
+
+**Brennan** - https://brennan.io/2015/01/16/write-a-shell-in-c/
+**Repo link** - https://github.com/brenns10/lsh.git
 
 ## Contact
 
