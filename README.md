@@ -7,10 +7,9 @@
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
+- [Reference](#Reference)
 - [Contact](#contact)
 
 ## About
