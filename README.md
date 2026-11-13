@@ -15,13 +15,8 @@
 
 ## About
 
-Describe the project in 2–3 sentences: what problem it solves and who it is for.
-
-## Features
-
-- Feature one
-- Feature two
-- Feature three
+This is A shell, your normal UNIX sehll. 
+I am just trying my way into systems programming.
 
 ## Project Structure
 
